@@ -11,6 +11,9 @@ body {
 	text-align:center;
 }
 #primarynav {
+	  border-bottom:1px solid #fff;
+    padding:5px;
+    margin:2px;
 	float:left;
 	margin: 5px;
 }
@@ -29,7 +32,7 @@ body {
 	margin: 10px;
 }
 .main-column-width {
-	width:160px;
+	width: 200px;
 }
 #content {
 	float:left;
@@ -40,8 +43,14 @@ body {
 }
 #locations {
 	float:left;
+	border-bottom:500px solid #fff;
+    padding:25px;
+    margin:2px;
+	
+
 }
 .block {
+
 	float:left;
 	width:175px;
 	color: blue;
@@ -49,6 +58,7 @@ body {
 	
 }
 .block h3 {
+
 	text-transform: lowercase;
 	text-align:center;
 	color:blue;
